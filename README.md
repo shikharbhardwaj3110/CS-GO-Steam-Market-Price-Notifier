@@ -1,4 +1,4 @@
-# CSGO-Steam-Market-Price-
+**CS:GO Market Price Notifier**
 Libraries used :
 
 1. axios
