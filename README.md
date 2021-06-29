@@ -11,7 +11,7 @@ How to use :
 
 - Command line parameters are strictly required and are of 5 types. 
   1. StatTrak / No StatTrak (0 - No StatTrak, 1 - StatTrak).
-  2. Wear of the skin (0 - Factory New, 1 - Minimal Wear, 2 - Field Tested, 3 - Well Worn, 4 - Battle Scarred).
+  2. Wear of the skin (*FN* - Factory New, *MW* - Minimal Wear, *FT* - Field Tested, *WW* - Well Worn, *BS* - Battle Scarred).
   3. Weapon name (Exact names can be referenced from **weapons.txt**).
   4. Skin name.
   5. Required price.
