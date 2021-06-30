@@ -17,6 +17,8 @@ How to use :
   4. Skin name.
   5. Required price.
 
-A sample parameter to the *addItems.js* file would look like **npm addItems.js 1 'BS' 'ak' 'Safari Mesh' 15.10**.
+A sample parameter to the *addItems.js* file would look like 
+
+`npm addItems.js 1 'BS' 'ak' 'Safari Mesh' 15.10`
 
 
