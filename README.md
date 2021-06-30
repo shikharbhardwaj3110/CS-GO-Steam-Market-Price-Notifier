@@ -1,16 +1,20 @@
 **CS:GO Market Price Notifier**
+**How it works :**
 
-Built with : 
+This program saves user desired skins in a .txt file locally which is later read to fetch the details for the same skins and send alerts if conditions are satisfied.
+
+
+**Built with :** 
 
 1. Node.JS
 
-Libraries used :
+**Libraries used :**
 
 1. axios
 2. cheerio
 3. nodemailer
 
-How to use : 
+**How to use :** 
 
 - Add your desired CS:GO skins and the required price by running *addItems.js* using **npm addItems.js** followed by the command line parameters specifying the nature of the skin   like wear and skin name.
 
