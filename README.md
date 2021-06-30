@@ -1,5 +1,9 @@
 **CS:GO Market Price Notifier**
 
+Built with : 
+
+1. Node.JS
+
 Libraries used :
 
 1. axios
