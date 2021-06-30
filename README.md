@@ -1,4 +1,6 @@
 **CS:GO Market Price Notifier**
+
+
 **How it works :**
 
 This program saves user desired skins in a .txt file locally which is later read to fetch the details for the same skins and send alerts if conditions are satisfied.
