@@ -18,7 +18,13 @@ How to use :
   5. Required price.
 
 A sample parameter to the *addItems.js* file would look like 
-
+ 
+ 
+ 
+ 
 `npm addItems.js 1 'BS' 'ak' 'Safari Mesh' 15.10`
+
+
+
 
 
