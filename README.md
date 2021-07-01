@@ -18,7 +18,7 @@ This program saves user desired skins in a .txt file locally which is later read
 
 **How to use :** 
 
-- Add your desired CS:GO skins and the required price by running *addItems.js* using **npm addItems.js** followed by the command line parameters specifying the nature of the skin   like wear and skin name.
+- Add your desired CS:GO skins and the required price by running *addItems.js* using **node addItems.js** followed by the command line parameters specifying the nature of the skin   like wear and skin name.
 
 - Command line parameters are strictly required and are of 5 types. 
   1. StatTrak / No StatTrak (0 - No StatTrak, 1 - StatTrak).
