@@ -32,7 +32,7 @@ A sample parameter to the *addItems.js* file would look like
  
  
  
-`npm addItems.js 1 'BS' 'ak' 'Safari Mesh' 15.10`
+`node addItems.js 1 'BS' 'ak' 'Safari Mesh' 15.10`
 
 
 
